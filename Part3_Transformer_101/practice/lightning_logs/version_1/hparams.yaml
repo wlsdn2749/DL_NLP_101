@@ -1,0 +1,6 @@
+d_model: 512
+input_vocab_size: 11
+learning_rate: 0.0001
+num_heads: 8
+output_vocab_size: 9
+padding_idx: 0
