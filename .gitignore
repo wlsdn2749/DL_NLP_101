@@ -135,3 +135,7 @@ dmypy.json
 **/original
 **/original/
 
+# lightning_logs
+/ligntning_logs
+.yaml
+.ckpt
